@@ -1,3 +1,3 @@
 - Eat
 - Read
-- Gym
+- Dance
