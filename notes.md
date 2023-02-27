@@ -1,1 +1,3 @@
-- Notes
+# Notes
+
+I am taking notes!
